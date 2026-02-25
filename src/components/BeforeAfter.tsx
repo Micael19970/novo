@@ -26,15 +26,7 @@ export default function BeforeAfter() {
             loop
             muted
             playsInline
-            <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
-  <iframe 
-    src="https://player.vimeo.com/video/1168091158?autoplay=1&muted=1&loop=1&background=1"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;"
-    frameborder="0"
-    allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
+src="https://player.vimeo.com/video/1168091158?h=170455a9aa%22%3B&response-content-type=video%2Fmp4&Expires=1771992778&Signature=fT~jbhGVkoVQVr6GHPRCrlpcIh2X78R89pPPCZeElPY-NbZAMLhzeZCrRofMMS38XwaAt4iIV-I4CB3gorBTeWvtUe3nHjNA2iVcX~6ATRmjHCSslikvB3splfdX8UfDjZypp~C2J5qKNAWFrI9fgvAO2XYJBQ7LjULaqfeEibUEPJa8rj7uVDuFSCn-MopXA5q5YHc6WwWnolnuVGistFccJXILQRxiTuKq2OWk9nd9HqwlxqmRNPPyT7Lkuum53I4cKQd3xEBkWMd1MHK2m224k05HG1-xtB19UvZNjbdPxet9Pscdg48RTzqDRkcTfnARMrSvsGs-pnWi4umhlQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ"
         </div>
 
         <div className="mt-12 max-w-lg mx-auto grid gap-8 md:grid-cols-3 md:max-w-4xl">
