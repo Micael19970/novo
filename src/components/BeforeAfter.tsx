@@ -19,9 +19,9 @@ export default function BeforeAfter() {
 
         </div>
 
-<div className="mt-12 max-w-2xl mx-auto aspect-[9/16] overflow-hidden rounded-lg shadow-xl border-4 border-white">
+<div className="mt-12 max-w-2xl mx-auto aspect-video rounded-lg shadow-xl border-4 border-white overflow-hidden">
   <iframe
-    className="w-full h-full"
+    className="w-full h-full block"
     src="https://player.vimeo.com/video/1168091158?h=170455a9aa&autoplay=1&loop=1&muted=1&background=1"
     allow="autoplay; fullscreen; picture-in-picture"
     allowFullScreen
