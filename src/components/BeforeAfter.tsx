@@ -19,15 +19,14 @@ export default function BeforeAfter() {
 
         </div>
 
-        <div className="mt-12 max-w-2xl mx-auto aspect-video overflow-hidden rounded-lg shadow-xl border-4 border-white">
-          <video
-            className="w-full h-full object-cover"
-            autoPlay
-            loop
-            muted
-            playsInline
-src="https://player.vimeo.com/video/1168091158?h=170455a9aa%22%3B&response-content-type=video%2Fmp4&Expires=1771992778&Signature=fT~jbhGVkoVQVr6GHPRCrlpcIh2X78R89pPPCZeElPY-NbZAMLhzeZCrRofMMS38XwaAt4iIV-I4CB3gorBTeWvtUe3nHjNA2iVcX~6ATRmjHCSslikvB3splfdX8UfDjZypp~C2J5qKNAWFrI9fgvAO2XYJBQ7LjULaqfeEibUEPJa8rj7uVDuFSCn-MopXA5q5YHc6WwWnolnuVGistFccJXILQRxiTuKq2OWk9nd9HqwlxqmRNPPyT7Lkuum53I4cKQd3xEBkWMd1MHK2m224k05HG1-xtB19UvZNjbdPxet9Pscdg48RTzqDRkcTfnARMrSvsGs-pnWi4umhlQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ"
-        </div>
+<div className="mt-12 max-w-2xl mx-auto aspect-video overflow-hidden rounded-lg shadow-xl border-4 border-white">
+  <iframe
+    className="w-full h-full"
+    src="https://player.vimeo.com/video/1168091158?h=170455a9aa&autoplay=1&loop=1&muted=1&background=1"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowFullScreen
+  ></iframe>
+</div>
 
         <div className="mt-12 max-w-lg mx-auto grid gap-8 md:grid-cols-3 md:max-w-4xl">
           <div className="flex flex-col items-center text-center">
